@@ -1,0 +1,8 @@
+{
+  "name": "NodeGraphQLClient",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:kjonathante/NodeGraphQLClient.git",
+  "author": "Kit Jonathan Te <kjonathante@gmail.com>",
+  "license": "MIT"
+}
